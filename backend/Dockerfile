@@ -9,11 +9,12 @@ RUN apt-get update && apt-get install -y --no-install-recommends curl \
 # Install CPU-only PyTorch first (much smaller than default with CUDA)
 RUN pip install --no-cache-dir torch torchvision --index-url https://download.pytorch.org/whl/cpu
 
-# Install headless OpenCV (no system GL deps needed)
-RUN pip install --no-cache-dir opencv-python-headless
-
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+
+# Force-replace opencv-python (pulled by grad-cam) with headless version
+RUN pip uninstall -y opencv-python 2>/dev/null; \
+    pip install --no-cache-dir opencv-python-headless
 
 COPY app/ app/
 COPY gallery/ gallery/
