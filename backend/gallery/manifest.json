@@ -1,0 +1,1766 @@
+{
+  "samples": [
+    {
+      "id": "gallery_000",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_000/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8283365368843079,
+            "probabilities": {
+              "glioma": 0.8283365368843079,
+              "meningioma": 0.06585327535867691,
+              "no_tumor": 0.04827951267361641,
+              "pituitary": 0.05753065645694733
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.7417618036270142,
+            "probabilities": {
+              "Astrocytoma": 0.25823819637298584,
+              "GBM": 0.7417618036270142
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_000/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 404.3
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8881896138191223,
+            "probabilities": {
+              "glioma": 0.8881896138191223,
+              "meningioma": 0.03472336009144783,
+              "no_tumor": 0.04591185227036476,
+              "pituitary": 0.0311751626431942
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.8419287204742432,
+            "probabilities": {
+              "Astrocytoma": 0.15807126462459564,
+              "GBM": 0.8419287204742432
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_000/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 240.4
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_001",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_001/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8383826017379761,
+            "probabilities": {
+              "glioma": 0.8383826017379761,
+              "meningioma": 0.057779710739851,
+              "no_tumor": 0.051697034388780594,
+              "pituitary": 0.052140697836875916
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.6835772395133972,
+            "probabilities": {
+              "Astrocytoma": 0.31642279028892517,
+              "GBM": 0.6835772395133972
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_001/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 375.2
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.9063968062400818,
+            "probabilities": {
+              "glioma": 0.9063968062400818,
+              "meningioma": 0.02717546559870243,
+              "no_tumor": 0.03440146520733833,
+              "pituitary": 0.032026275992393494
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.9060666561126709,
+            "probabilities": {
+              "Astrocytoma": 0.09393329918384552,
+              "GBM": 0.9060666561126709
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_001/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 182.9
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_002",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_002/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8218080401420593,
+            "probabilities": {
+              "glioma": 0.8218080401420593,
+              "meningioma": 0.05673640966415405,
+              "no_tumor": 0.06704337894916534,
+              "pituitary": 0.05441219359636307
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.5250056385993958,
+            "probabilities": {
+              "Astrocytoma": 0.47499439120292664,
+              "GBM": 0.5250056385993958
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_002/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 355.2
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.7930120229721069,
+            "probabilities": {
+              "glioma": 0.7930120229721069,
+              "meningioma": 0.042199570685625076,
+              "no_tumor": 0.11673130095005035,
+              "pituitary": 0.04805713891983032
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.5124160051345825,
+            "probabilities": {
+              "Astrocytoma": 0.4875839352607727,
+              "GBM": 0.5124160051345825
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_002/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 216.1
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_003",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_003/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8090590238571167,
+            "probabilities": {
+              "glioma": 0.8090590238571167,
+              "meningioma": 0.0630473718047142,
+              "no_tumor": 0.0622793510556221,
+              "pituitary": 0.06561432778835297
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.7434423565864563,
+            "probabilities": {
+              "Astrocytoma": 0.2565577030181885,
+              "GBM": 0.7434423565864563
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_003/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 347.9
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8045893907546997,
+            "probabilities": {
+              "glioma": 0.8045893907546997,
+              "meningioma": 0.04594222456216812,
+              "no_tumor": 0.0897970199584961,
+              "pituitary": 0.05967142805457115
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.77433180809021,
+            "probabilities": {
+              "Astrocytoma": 0.22566825151443481,
+              "GBM": 0.77433180809021
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_003/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 178.5
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_004",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_004/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8457679152488708,
+            "probabilities": {
+              "glioma": 0.8457679152488708,
+              "meningioma": 0.053696151822805405,
+              "no_tumor": 0.05315953865647316,
+              "pituitary": 0.04737645387649536
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.6449877619743347,
+            "probabilities": {
+              "Astrocytoma": 0.35501226782798767,
+              "GBM": 0.6449877619743347
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_004/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 349.3
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.909135103225708,
+            "probabilities": {
+              "glioma": 0.909135103225708,
+              "meningioma": 0.031415361911058426,
+              "no_tumor": 0.020943105220794678,
+              "pituitary": 0.03850646689534187
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.5815571546554565,
+            "probabilities": {
+              "Astrocytoma": 0.41844287514686584,
+              "GBM": 0.5815571546554565
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_004/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 190.2
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_005",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_005/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8385982513427734,
+            "probabilities": {
+              "glioma": 0.8385982513427734,
+              "meningioma": 0.05795302987098694,
+              "no_tumor": 0.04976785182952881,
+              "pituitary": 0.0536809042096138
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.6695043444633484,
+            "probabilities": {
+              "Astrocytoma": 0.3304956555366516,
+              "GBM": 0.6695043444633484
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_005/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 350.1
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.9288659691810608,
+            "probabilities": {
+              "glioma": 0.9288659691810608,
+              "meningioma": 0.03288484737277031,
+              "no_tumor": 0.016469566151499748,
+              "pituitary": 0.021779630333185196
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.527550220489502,
+            "probabilities": {
+              "Astrocytoma": 0.47244980931282043,
+              "GBM": 0.527550220489502
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_005/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 194.8
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_006",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_006/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.74617999792099,
+            "probabilities": {
+              "glioma": 0.06346168369054794,
+              "meningioma": 0.74617999792099,
+              "no_tumor": 0.028074005618691444,
+              "pituitary": 0.1622842699289322
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_006/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 298.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.828956127166748,
+            "probabilities": {
+              "glioma": 0.038432396948337555,
+              "meningioma": 0.828956127166748,
+              "no_tumor": 0.053398214280605316,
+              "pituitary": 0.07921330630779266
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_006/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 157.1
+        }
+      },
+      "is_failure_case": true,
+      "notes": "Misclassified as meningioma"
+    },
+    {
+      "id": "gallery_007",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_007/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8476552963256836,
+            "probabilities": {
+              "glioma": 0.8476552963256836,
+              "meningioma": 0.05081874504685402,
+              "no_tumor": 0.050686828792095184,
+              "pituitary": 0.05083919316530228
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.7218270897865295,
+            "probabilities": {
+              "Astrocytoma": 0.27817288041114807,
+              "GBM": 0.7218270897865295
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_007/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 355.9
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8744667172431946,
+            "probabilities": {
+              "glioma": 0.8744667172431946,
+              "meningioma": 0.03911144286394119,
+              "no_tumor": 0.04153534397482872,
+              "pituitary": 0.04488656297326088
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.6444264650344849,
+            "probabilities": {
+              "Astrocytoma": 0.3555735647678375,
+              "GBM": 0.6444264650344849
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_007/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 198.0
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_008",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_008/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8218241930007935,
+            "probabilities": {
+              "glioma": 0.8218241930007935,
+              "meningioma": 0.07848726212978363,
+              "no_tumor": 0.04604916647076607,
+              "pituitary": 0.05363939329981804
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.7324481010437012,
+            "probabilities": {
+              "Astrocytoma": 0.26755189895629883,
+              "GBM": 0.7324481010437012
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_008/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 350.8
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8463271260261536,
+            "probabilities": {
+              "glioma": 0.8463271260261536,
+              "meningioma": 0.07015324383974075,
+              "no_tumor": 0.03023788146674633,
+              "pituitary": 0.053281720727682114
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.8650611042976379,
+            "probabilities": {
+              "Astrocytoma": 0.13493894040584564,
+              "GBM": 0.8650611042976379
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_008/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 194.8
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_009",
+      "class_label": "glioma",
+      "image_url": "/api/samples/gallery_009/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.8698316812515259,
+            "probabilities": {
+              "glioma": 0.06662428379058838,
+              "meningioma": 0.8698316812515259,
+              "no_tumor": 0.024346420541405678,
+              "pituitary": 0.03919752687215805
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_009/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 282.1
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.8873023390769958,
+            "probabilities": {
+              "glioma": 0.8873023390769958,
+              "meningioma": 0.0622733049094677,
+              "no_tumor": 0.032090429216623306,
+              "pituitary": 0.01833392307162285
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.8725379109382629,
+            "probabilities": {
+              "Astrocytoma": 0.12746216356754303,
+              "GBM": 0.8725379109382629
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_009/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 193.6
+        }
+      },
+      "is_failure_case": true,
+      "notes": "Misclassified as meningioma"
+    },
+    {
+      "id": "gallery_010",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_010/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9016443490982056,
+            "probabilities": {
+              "glioma": 0.03132190555334091,
+              "meningioma": 0.9016443490982056,
+              "no_tumor": 0.032272182404994965,
+              "pituitary": 0.034761492162942886
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_010/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 302.2
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9089915752410889,
+            "probabilities": {
+              "glioma": 0.021145643666386604,
+              "meningioma": 0.9089915752410889,
+              "no_tumor": 0.0337943471968174,
+              "pituitary": 0.036068469285964966
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_010/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 164.0
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_011",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_011/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.8854329586029053,
+            "probabilities": {
+              "glioma": 0.027469707652926445,
+              "meningioma": 0.8854329586029053,
+              "no_tumor": 0.036860886961221695,
+              "pituitary": 0.050236377865076065
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_011/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 281.4
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9364592432975769,
+            "probabilities": {
+              "glioma": 0.004516961053013802,
+              "meningioma": 0.9364592432975769,
+              "no_tumor": 0.008514409884810448,
+              "pituitary": 0.05050946772098541
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_011/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 155.6
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_012",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_012/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9081966280937195,
+            "probabilities": {
+              "glioma": 0.02925763465464115,
+              "meningioma": 0.9081966280937195,
+              "no_tumor": 0.029175089672207832,
+              "pituitary": 0.03337070345878601
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_012/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 283.2
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9217561483383179,
+            "probabilities": {
+              "glioma": 0.020633788779377937,
+              "meningioma": 0.9217561483383179,
+              "no_tumor": 0.014672440476715565,
+              "pituitary": 0.04293758049607277
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_012/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 164.9
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_013",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_013/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.8886108994483948,
+            "probabilities": {
+              "glioma": 0.030993081629276276,
+              "meningioma": 0.8886108994483948,
+              "no_tumor": 0.0379803441464901,
+              "pituitary": 0.04241561517119408
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_013/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 292.6
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9054450392723083,
+            "probabilities": {
+              "glioma": 0.01690794713795185,
+              "meningioma": 0.9054450392723083,
+              "no_tumor": 0.03077745996415615,
+              "pituitary": 0.04686947166919708
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_013/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 157.8
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_014",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_014/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.8409900069236755,
+            "probabilities": {
+              "glioma": 0.06140684336423874,
+              "meningioma": 0.8409900069236755,
+              "no_tumor": 0.06412015110254288,
+              "pituitary": 0.03348302096128464
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_014/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 288.4
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "glioma",
+            "confidence": 0.3799584209918976,
+            "probabilities": {
+              "glioma": 0.3799584209918976,
+              "meningioma": 0.33335819840431213,
+              "no_tumor": 0.20610648393630981,
+              "pituitary": 0.08057684451341629
+            }
+          },
+          "l3": {
+            "prediction": "GBM",
+            "confidence": 0.6935036182403564,
+            "probabilities": {
+              "Astrocytoma": 0.30649635195732117,
+              "GBM": 0.6935036182403564
+            }
+          },
+          "gradcam_url": "/api/samples/gallery_014/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 208.4
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_015",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_015/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9070472717285156,
+            "probabilities": {
+              "glioma": 0.02956051006913185,
+              "meningioma": 0.9070472717285156,
+              "no_tumor": 0.02557997778058052,
+              "pituitary": 0.037812311202287674
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_015/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 298.5
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9383366107940674,
+            "probabilities": {
+              "glioma": 0.013437384739518166,
+              "meningioma": 0.9383366107940674,
+              "no_tumor": 0.01433388702571392,
+              "pituitary": 0.033892251551151276
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_015/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 153.9
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_016",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_016/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.8926725387573242,
+            "probabilities": {
+              "glioma": 0.030707720667123795,
+              "meningioma": 0.8926725387573242,
+              "no_tumor": 0.03504302352666855,
+              "pituitary": 0.041576746851205826
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_016/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 298.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.7564095258712769,
+            "probabilities": {
+              "glioma": 0.05291782319545746,
+              "meningioma": 0.7564095258712769,
+              "no_tumor": 0.11706031858921051,
+              "pituitary": 0.07361240684986115
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_016/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 159.6
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_017",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_017/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.880940854549408,
+            "probabilities": {
+              "glioma": 0.030288783833384514,
+              "meningioma": 0.880940854549408,
+              "no_tumor": 0.0375552736222744,
+              "pituitary": 0.051214974373579025
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_017/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 287.9
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9776721596717834,
+            "probabilities": {
+              "glioma": 0.005090621765702963,
+              "meningioma": 0.9776721596717834,
+              "no_tumor": 0.004050794523209333,
+              "pituitary": 0.013186382129788399
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_017/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 162.5
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_018",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_018/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.905162513256073,
+            "probabilities": {
+              "glioma": 0.024353917688131332,
+              "meningioma": 0.905162513256073,
+              "no_tumor": 0.031878769397735596,
+              "pituitary": 0.038604795932769775
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_018/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 285.4
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9171043038368225,
+            "probabilities": {
+              "glioma": 0.020096588879823685,
+              "meningioma": 0.9171043038368225,
+              "no_tumor": 0.03284867852926254,
+              "pituitary": 0.029950497671961784
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_018/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 163.0
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_019",
+      "class_label": "meningioma",
+      "image_url": "/api/samples/gallery_019/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9008806943893433,
+            "probabilities": {
+              "glioma": 0.031962476670742035,
+              "meningioma": 0.9008806943893433,
+              "no_tumor": 0.027068529278039932,
+              "pituitary": 0.04008827358484268
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_019/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 306.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "meningioma",
+            "confidence": 0.9134610891342163,
+            "probabilities": {
+              "glioma": 0.0370388887822628,
+              "meningioma": 0.9134610891342163,
+              "no_tumor": 0.026642153039574623,
+              "pituitary": 0.02285796031355858
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_019/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 174.8
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_020",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_020/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9098430275917053,
+            "probabilities": {
+              "glioma": 0.02256436087191105,
+              "meningioma": 0.03570125624537468,
+              "no_tumor": 0.9098430275917053,
+              "pituitary": 0.03189127892255783
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_020/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 293.5
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9388958215713501,
+            "probabilities": {
+              "glioma": 0.01740323193371296,
+              "meningioma": 0.022104226052761078,
+              "no_tumor": 0.9388958215713501,
+              "pituitary": 0.02159668691456318
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_020/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 156.3
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_021",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_021/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8875116109848022,
+            "probabilities": {
+              "glioma": 0.028350738808512688,
+              "meningioma": 0.04364493489265442,
+              "no_tumor": 0.8875116109848022,
+              "pituitary": 0.040492672473192215
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_021/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 289.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9349051117897034,
+            "probabilities": {
+              "glioma": 0.017828628420829773,
+              "meningioma": 0.023101693019270897,
+              "no_tumor": 0.9349051117897034,
+              "pituitary": 0.024164555594325066
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_021/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 165.4
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_022",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_022/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8976355791091919,
+            "probabilities": {
+              "glioma": 0.02485700510442257,
+              "meningioma": 0.04186049848794937,
+              "no_tumor": 0.8976355791091919,
+              "pituitary": 0.03564692661166191
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_022/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 282.3
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8958088159561157,
+            "probabilities": {
+              "glioma": 0.029675500467419624,
+              "meningioma": 0.031094899401068687,
+              "no_tumor": 0.8958088159561157,
+              "pituitary": 0.04342078045010567
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_022/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 149.1
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_023",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_023/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8811439275741577,
+            "probabilities": {
+              "glioma": 0.030847951769828796,
+              "meningioma": 0.04315965995192528,
+              "no_tumor": 0.8811439275741577,
+              "pituitary": 0.0448484793305397
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_023/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 285.5
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9549009203910828,
+            "probabilities": {
+              "glioma": 0.012282334268093109,
+              "meningioma": 0.014461400918662548,
+              "no_tumor": 0.9549009203910828,
+              "pituitary": 0.01835535652935505
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_023/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 162.7
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_024",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_024/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8980424404144287,
+            "probabilities": {
+              "glioma": 0.021176930516958237,
+              "meningioma": 0.03641483932733536,
+              "no_tumor": 0.8980424404144287,
+              "pituitary": 0.04436585307121277
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_024/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 300.5
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9655160307884216,
+            "probabilities": {
+              "glioma": 0.007692154496908188,
+              "meningioma": 0.019398946315050125,
+              "no_tumor": 0.9655160307884216,
+              "pituitary": 0.007392920088022947
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_024/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 165.8
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_025",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_025/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8918697834014893,
+            "probabilities": {
+              "glioma": 0.024901727214455605,
+              "meningioma": 0.04282720386981964,
+              "no_tumor": 0.8918697834014893,
+              "pituitary": 0.04040129482746124
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_025/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 286.3
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9625956416130066,
+            "probabilities": {
+              "glioma": 0.006425715051591396,
+              "meningioma": 0.012775423005223274,
+              "no_tumor": 0.9625956416130066,
+              "pituitary": 0.01820322312414646
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_025/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 161.7
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_026",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_026/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8943560123443604,
+            "probabilities": {
+              "glioma": 0.02779199369251728,
+              "meningioma": 0.03745052218437195,
+              "no_tumor": 0.8943560123443604,
+              "pituitary": 0.04040142148733139
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_026/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 293.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9057319164276123,
+            "probabilities": {
+              "glioma": 0.03065403178334236,
+              "meningioma": 0.04521431028842926,
+              "no_tumor": 0.9057319164276123,
+              "pituitary": 0.01839977689087391
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_026/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 156.4
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_027",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_027/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.888113260269165,
+            "probabilities": {
+              "glioma": 0.023045187816023827,
+              "meningioma": 0.04254009947180748,
+              "no_tumor": 0.888113260269165,
+              "pituitary": 0.04630142077803612
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_027/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 292.1
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9229576587677002,
+            "probabilities": {
+              "glioma": 0.020278088748455048,
+              "meningioma": 0.026376372203230858,
+              "no_tumor": 0.9229576587677002,
+              "pituitary": 0.030387794598937035
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_027/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 161.1
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_028",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_028/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.8890502452850342,
+            "probabilities": {
+              "glioma": 0.029581835493445396,
+              "meningioma": 0.03924747183918953,
+              "no_tumor": 0.8890502452850342,
+              "pituitary": 0.04212038964033127
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_028/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 301.8
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.9425445795059204,
+            "probabilities": {
+              "glioma": 0.02220636047422886,
+              "meningioma": 0.019765349105000496,
+              "no_tumor": 0.9425445795059204,
+              "pituitary": 0.015483791939914227
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_028/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 158.1
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_029",
+      "class_label": "no_tumor",
+      "image_url": "/api/samples/gallery_029/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.892532229423523,
+            "probabilities": {
+              "glioma": 0.0246944148093462,
+              "meningioma": 0.03991140052676201,
+              "no_tumor": 0.892532229423523,
+              "pituitary": 0.04286199063062668
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_029/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 291.1
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "no_tumor",
+            "confidence": 0.938188374042511,
+            "probabilities": {
+              "glioma": 0.014864078722894192,
+              "meningioma": 0.022229526191949844,
+              "no_tumor": 0.938188374042511,
+              "pituitary": 0.024718057364225388
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_029/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 157.6
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_030",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_030/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9174578785896301,
+            "probabilities": {
+              "glioma": 0.021894920617341995,
+              "meningioma": 0.0353042408823967,
+              "no_tumor": 0.025343023240566254,
+              "pituitary": 0.9174578785896301
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_030/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 306.1
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9407052993774414,
+            "probabilities": {
+              "glioma": 0.014124230481684208,
+              "meningioma": 0.014752079732716084,
+              "no_tumor": 0.03041841648519039,
+              "pituitary": 0.9407052993774414
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_030/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 158.0
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_031",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_031/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9398048520088196,
+            "probabilities": {
+              "glioma": 0.014192767441272736,
+              "meningioma": 0.02218417450785637,
+              "no_tumor": 0.023818232119083405,
+              "pituitary": 0.9398048520088196
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_031/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 292.6
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9822642207145691,
+            "probabilities": {
+              "glioma": 0.005975876934826374,
+              "meningioma": 0.005218041595071554,
+              "no_tumor": 0.00654184864833951,
+              "pituitary": 0.9822642207145691
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_031/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 173.3
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_032",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_032/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9034380912780762,
+            "probabilities": {
+              "glioma": 0.0295398086309433,
+              "meningioma": 0.039709948003292084,
+              "no_tumor": 0.02731216326355934,
+              "pituitary": 0.9034380912780762
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_032/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 302.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9506509900093079,
+            "probabilities": {
+              "glioma": 0.012980685569345951,
+              "meningioma": 0.019333282485604286,
+              "no_tumor": 0.017035074532032013,
+              "pituitary": 0.9506509900093079
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_032/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 161.1
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_033",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_033/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9160662293434143,
+            "probabilities": {
+              "glioma": 0.020997218787670135,
+              "meningioma": 0.0344645194709301,
+              "no_tumor": 0.02847208082675934,
+              "pituitary": 0.9160662293434143
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_033/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 305.4
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9408754110336304,
+            "probabilities": {
+              "glioma": 0.012452572584152222,
+              "meningioma": 0.018451474606990814,
+              "no_tumor": 0.02822059579193592,
+              "pituitary": 0.9408754110336304
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_033/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 169.4
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_034",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_034/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9065085649490356,
+            "probabilities": {
+              "glioma": 0.021503085270524025,
+              "meningioma": 0.040218286216259,
+              "no_tumor": 0.03177005425095558,
+              "pituitary": 0.9065085649490356
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_034/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 299.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9229814410209656,
+            "probabilities": {
+              "glioma": 0.017579060047864914,
+              "meningioma": 0.027634017169475555,
+              "no_tumor": 0.03180552273988724,
+              "pituitary": 0.9229814410209656
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_034/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 162.8
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_035",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_035/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9247642755508423,
+            "probabilities": {
+              "glioma": 0.016361530870199203,
+              "meningioma": 0.03329776972532272,
+              "no_tumor": 0.02557646855711937,
+              "pituitary": 0.9247642755508423
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_035/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 292.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9693748354911804,
+            "probabilities": {
+              "glioma": 0.011697754263877869,
+              "meningioma": 0.008999481797218323,
+              "no_tumor": 0.009927935898303986,
+              "pituitary": 0.9693748354911804
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_035/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 157.4
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_036",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_036/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9209349751472473,
+            "probabilities": {
+              "glioma": 0.019374659284949303,
+              "meningioma": 0.03343720734119415,
+              "no_tumor": 0.026253096759319305,
+              "pituitary": 0.9209349751472473
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_036/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 285.4
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9142505526542664,
+            "probabilities": {
+              "glioma": 0.044165872037410736,
+              "meningioma": 0.022672956809401512,
+              "no_tumor": 0.018910668790340424,
+              "pituitary": 0.9142505526542664
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_036/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 160.1
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_037",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_037/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9136840105056763,
+            "probabilities": {
+              "glioma": 0.02244768664240837,
+              "meningioma": 0.037521589547395706,
+              "no_tumor": 0.026346728205680847,
+              "pituitary": 0.9136840105056763
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_037/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 300.7
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9278265833854675,
+            "probabilities": {
+              "glioma": 0.026746593415737152,
+              "meningioma": 0.014887012541294098,
+              "no_tumor": 0.030539875850081444,
+              "pituitary": 0.9278265833854675
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_037/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 164.3
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_038",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_038/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.92091304063797,
+            "probabilities": {
+              "glioma": 0.02062983438372612,
+              "meningioma": 0.0325080044567585,
+              "no_tumor": 0.02594909630715847,
+              "pituitary": 0.92091304063797
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_038/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 295.7
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.9254416227340698,
+            "probabilities": {
+              "glioma": 0.00862265843898058,
+              "meningioma": 0.027987368404865265,
+              "no_tumor": 0.03794834762811661,
+              "pituitary": 0.9254416227340698
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_038/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 177.5
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    },
+    {
+      "id": "gallery_039",
+      "class_label": "pituitary",
+      "image_url": "/api/samples/gallery_039/image.jpg",
+      "predictions": {
+        "efficientnetv2_s": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.913057804107666,
+            "probabilities": {
+              "glioma": 0.02438204362988472,
+              "meningioma": 0.03711264207959175,
+              "no_tumor": 0.02544756792485714,
+              "pituitary": 0.913057804107666
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_039/gradcam/efficientnetv2_s.png",
+          "inference_time_ms": 291.0
+        },
+        "efficientnetv2_b1": {
+          "l2": {
+            "prediction": "pituitary",
+            "confidence": 0.8294034600257874,
+            "probabilities": {
+              "glioma": 0.01696069724857807,
+              "meningioma": 0.1033821702003479,
+              "no_tumor": 0.05025365203619003,
+              "pituitary": 0.8294034600257874
+            }
+          },
+          "l3": null,
+          "gradcam_url": "/api/samples/gallery_039/gradcam/efficientnetv2_b1.png",
+          "inference_time_ms": 161.9
+        }
+      },
+      "is_failure_case": false,
+      "notes": null
+    }
+  ],
+  "showcase": [
+    {
+      "id": "showcase_000",
+      "image_url": "/api/samples/showcase_000/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_001",
+      "image_url": "/api/samples/showcase_001/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_002",
+      "image_url": "/api/samples/showcase_002/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "Astrocytoma"
+    },
+    {
+      "id": "showcase_003",
+      "image_url": "/api/samples/showcase_003/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "Astrocytoma"
+    },
+    {
+      "id": "showcase_004",
+      "image_url": "/api/samples/showcase_004/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_005",
+      "image_url": "/api/samples/showcase_005/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_006",
+      "image_url": "/api/samples/showcase_006/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_007",
+      "image_url": "/api/samples/showcase_007/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_008",
+      "image_url": "/api/samples/showcase_008/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_009",
+      "image_url": "/api/samples/showcase_009/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_010",
+      "image_url": "/api/samples/showcase_010/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    },
+    {
+      "id": "showcase_011",
+      "image_url": "/api/samples/showcase_011/image.jpg",
+      "source": "UCSF-PDGM",
+      "label": "GBM"
+    }
+  ],
+  "total_gallery": 40,
+  "total_showcase": 12
+}

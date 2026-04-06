@@ -1,0 +1,60 @@
+# Personal files
+Ryan_Blake_Resume.pdf
+
+# Documentation — internal planning docs
+docs/
+*.md
+!.env.example
+
+# Claude Code
+.claude/
+
+# Data — large datasets, not needed in repo
+data/
+
+# Models — large binary checkpoints, mount as Docker volumes
+models/
+
+# Training results — copied to backend/static for serving
+results/
+
+# Training scripts and requirements — offline only
+scripts/
+requirements-training.txt
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/@/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Docker build artifacts
+*.tar
