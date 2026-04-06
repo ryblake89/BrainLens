@@ -2,11 +2,11 @@
 
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).parent.parent.parent  # d:/Python/BrainLens
-MODELS_DIR = PROJECT_ROOT / "models"
-RESULTS_DIR = PROJECT_ROOT / "results"
-GALLERY_DIR = Path(__file__).parent.parent / "gallery"
-STATIC_DIR = Path(__file__).parent.parent / "static"
+APP_ROOT = Path(__file__).parent.parent  # /app in Docker, backend/ locally
+MODELS_DIR = APP_ROOT / "models"
+RESULTS_DIR = APP_ROOT / "results"
+GALLERY_DIR = APP_ROOT / "gallery"
+STATIC_DIR = APP_ROOT / "static"
 
 L2_CLASSES = ["glioma", "meningioma", "no_tumor", "pituitary"]
 L3_CLASSES = ["Astrocytoma", "GBM"]
