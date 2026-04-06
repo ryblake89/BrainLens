@@ -25,7 +25,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_000/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 404.3
+          "inference_time_ms": 458.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -47,7 +47,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_000/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 240.4
+          "inference_time_ms": 261.5
         }
       },
       "is_failure_case": false,
@@ -78,7 +78,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_001/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 375.2
+          "inference_time_ms": 414.1
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -100,7 +100,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_001/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 182.9
+          "inference_time_ms": 201.2
         }
       },
       "is_failure_case": false,
@@ -131,7 +131,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_002/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 355.2
+          "inference_time_ms": 388.9
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -153,7 +153,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_002/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 216.1
+          "inference_time_ms": 226.8
         }
       },
       "is_failure_case": false,
@@ -184,7 +184,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_003/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 347.9
+          "inference_time_ms": 394.6
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -206,7 +206,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_003/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 178.5
+          "inference_time_ms": 213.8
         }
       },
       "is_failure_case": false,
@@ -237,7 +237,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_004/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 349.3
+          "inference_time_ms": 404.5
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -259,7 +259,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_004/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 190.2
+          "inference_time_ms": 207.1
         }
       },
       "is_failure_case": false,
@@ -290,7 +290,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_005/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 350.1
+          "inference_time_ms": 382.5
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -312,7 +312,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_005/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 194.8
+          "inference_time_ms": 199.0
         }
       },
       "is_failure_case": false,
@@ -336,7 +336,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_006/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 298.0
+          "inference_time_ms": 323.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -351,7 +351,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_006/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 157.1
+          "inference_time_ms": 192.2
         }
       },
       "is_failure_case": true,
@@ -382,7 +382,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_007/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 355.9
+          "inference_time_ms": 400.8
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -404,7 +404,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_007/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 198.0
+          "inference_time_ms": 218.6
         }
       },
       "is_failure_case": false,
@@ -435,7 +435,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_008/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 350.8
+          "inference_time_ms": 393.9
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -457,7 +457,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_008/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 194.8
+          "inference_time_ms": 215.0
         }
       },
       "is_failure_case": false,
@@ -481,7 +481,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_009/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 282.1
+          "inference_time_ms": 312.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -503,7 +503,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_009/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 193.6
+          "inference_time_ms": 232.7
         }
       },
       "is_failure_case": true,
@@ -527,7 +527,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_010/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 302.2
+          "inference_time_ms": 325.7
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -542,7 +542,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_010/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 164.0
+          "inference_time_ms": 171.6
         }
       },
       "is_failure_case": false,
@@ -566,7 +566,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_011/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 281.4
+          "inference_time_ms": 313.6
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -581,7 +581,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_011/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 155.6
+          "inference_time_ms": 169.1
         }
       },
       "is_failure_case": false,
@@ -605,7 +605,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_012/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 283.2
+          "inference_time_ms": 318.8
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -620,7 +620,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_012/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 164.9
+          "inference_time_ms": 172.6
         }
       },
       "is_failure_case": false,
@@ -644,7 +644,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_013/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 292.6
+          "inference_time_ms": 329.1
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -659,7 +659,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_013/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 157.8
+          "inference_time_ms": 172.7
         }
       },
       "is_failure_case": false,
@@ -683,7 +683,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_014/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 288.4
+          "inference_time_ms": 327.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -705,7 +705,7 @@
             }
           },
           "gradcam_url": "/api/samples/gallery_014/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 208.4
+          "inference_time_ms": 222.7
         }
       },
       "is_failure_case": false,
@@ -729,7 +729,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_015/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 298.5
+          "inference_time_ms": 328.0
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -744,7 +744,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_015/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 153.9
+          "inference_time_ms": 175.1
         }
       },
       "is_failure_case": false,
@@ -768,7 +768,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_016/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 298.0
+          "inference_time_ms": 313.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -783,7 +783,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_016/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 159.6
+          "inference_time_ms": 184.2
         }
       },
       "is_failure_case": false,
@@ -807,7 +807,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_017/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 287.9
+          "inference_time_ms": 321.1
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -822,7 +822,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_017/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 162.5
+          "inference_time_ms": 179.2
         }
       },
       "is_failure_case": false,
@@ -846,7 +846,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_018/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 285.4
+          "inference_time_ms": 307.1
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -861,7 +861,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_018/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 163.0
+          "inference_time_ms": 188.9
         }
       },
       "is_failure_case": false,
@@ -885,7 +885,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_019/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 306.0
+          "inference_time_ms": 321.5
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -900,7 +900,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_019/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 174.8
+          "inference_time_ms": 174.2
         }
       },
       "is_failure_case": false,
@@ -924,7 +924,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_020/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 293.5
+          "inference_time_ms": 322.5
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -939,7 +939,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_020/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 156.3
+          "inference_time_ms": 167.5
         }
       },
       "is_failure_case": false,
@@ -963,7 +963,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_021/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 289.0
+          "inference_time_ms": 316.2
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -978,7 +978,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_021/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 165.4
+          "inference_time_ms": 182.4
         }
       },
       "is_failure_case": false,
@@ -1002,7 +1002,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_022/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 282.3
+          "inference_time_ms": 323.2
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1017,7 +1017,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_022/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 149.1
+          "inference_time_ms": 174.6
         }
       },
       "is_failure_case": false,
@@ -1041,7 +1041,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_023/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 285.5
+          "inference_time_ms": 327.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1056,7 +1056,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_023/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 162.7
+          "inference_time_ms": 183.6
         }
       },
       "is_failure_case": false,
@@ -1080,7 +1080,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_024/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 300.5
+          "inference_time_ms": 332.8
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1095,7 +1095,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_024/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 165.8
+          "inference_time_ms": 180.3
         }
       },
       "is_failure_case": false,
@@ -1119,7 +1119,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_025/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 286.3
+          "inference_time_ms": 319.9
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1134,7 +1134,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_025/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 161.7
+          "inference_time_ms": 169.4
         }
       },
       "is_failure_case": false,
@@ -1158,7 +1158,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_026/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 293.0
+          "inference_time_ms": 310.6
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1173,7 +1173,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_026/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 156.4
+          "inference_time_ms": 185.4
         }
       },
       "is_failure_case": false,
@@ -1197,7 +1197,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_027/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 292.1
+          "inference_time_ms": 324.2
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1212,7 +1212,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_027/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 161.1
+          "inference_time_ms": 173.8
         }
       },
       "is_failure_case": false,
@@ -1236,7 +1236,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_028/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 301.8
+          "inference_time_ms": 313.0
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1251,7 +1251,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_028/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 158.1
+          "inference_time_ms": 162.3
         }
       },
       "is_failure_case": false,
@@ -1275,7 +1275,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_029/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 291.1
+          "inference_time_ms": 324.6
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1290,7 +1290,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_029/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 157.6
+          "inference_time_ms": 164.5
         }
       },
       "is_failure_case": false,
@@ -1314,7 +1314,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_030/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 306.1
+          "inference_time_ms": 307.1
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1329,7 +1329,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_030/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 158.0
+          "inference_time_ms": 178.6
         }
       },
       "is_failure_case": false,
@@ -1353,7 +1353,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_031/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 292.6
+          "inference_time_ms": 321.7
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1368,7 +1368,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_031/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 173.3
+          "inference_time_ms": 181.5
         }
       },
       "is_failure_case": false,
@@ -1392,7 +1392,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_032/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 302.0
+          "inference_time_ms": 309.0
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1407,7 +1407,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_032/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 161.1
+          "inference_time_ms": 177.5
         }
       },
       "is_failure_case": false,
@@ -1431,7 +1431,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_033/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 305.4
+          "inference_time_ms": 324.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1446,7 +1446,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_033/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 169.4
+          "inference_time_ms": 173.5
         }
       },
       "is_failure_case": false,
@@ -1470,7 +1470,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_034/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 299.0
+          "inference_time_ms": 322.2
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1485,7 +1485,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_034/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 162.8
+          "inference_time_ms": 178.3
         }
       },
       "is_failure_case": false,
@@ -1509,7 +1509,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_035/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 292.0
+          "inference_time_ms": 317.6
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1524,7 +1524,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_035/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 157.4
+          "inference_time_ms": 195.5
         }
       },
       "is_failure_case": false,
@@ -1548,7 +1548,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_036/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 285.4
+          "inference_time_ms": 323.4
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1563,7 +1563,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_036/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 160.1
+          "inference_time_ms": 178.9
         }
       },
       "is_failure_case": false,
@@ -1587,7 +1587,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_037/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 300.7
+          "inference_time_ms": 320.9
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1602,7 +1602,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_037/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 164.3
+          "inference_time_ms": 181.1
         }
       },
       "is_failure_case": false,
@@ -1626,7 +1626,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_038/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 295.7
+          "inference_time_ms": 317.3
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1641,7 +1641,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_038/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 177.5
+          "inference_time_ms": 177.0
         }
       },
       "is_failure_case": false,
@@ -1665,7 +1665,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_039/gradcam/efficientnetv2_s.png",
-          "inference_time_ms": 291.0
+          "inference_time_ms": 330.1
         },
         "efficientnetv2_b1": {
           "l2": {
@@ -1680,7 +1680,7 @@
           },
           "l3": null,
           "gradcam_url": "/api/samples/gallery_039/gradcam/efficientnetv2_b1.png",
-          "inference_time_ms": 161.9
+          "inference_time_ms": 175.0
         }
       },
       "is_failure_case": false,

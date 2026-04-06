@@ -116,8 +116,12 @@ def predict(models: dict, image: Image.Image, backbone: str = "efficientnetv2_s"
     l2_pred_idx = int(l2_probs.argmax())
     l2_pred = L2_CLASSES[l2_pred_idx]
 
-    # Grad-CAM for L2
+    # Grad-CAM for L2 — mask to brain region to remove padding artifacts
     grayscale_cam = l2_cam(input_tensor=tensor)[0]
+    brain_mask = img_float.mean(axis=2) > 0.05
+    grayscale_cam = grayscale_cam * brain_mask
+    if grayscale_cam.max() > 0:
+        grayscale_cam = grayscale_cam / grayscale_cam.max()
     overlay = show_cam_on_image(img_float, grayscale_cam, use_rgb=True)
     buf = io.BytesIO()
     Image.fromarray(overlay).save(buf, format="PNG")
